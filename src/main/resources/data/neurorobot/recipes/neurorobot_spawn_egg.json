@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "BPB",
+    "PRP",
+    "BPB"
+  ],
+  "key": {
+    "B": {
+      "item": "neurorobot:battery"
+    },
+    "P": {
+      "item": "neurorobot:mechanical_part"
+    },
+    "R": {
+      "item": "minecraft:redstone_block"
+    }
+  },
+  "result": {
+    "id": "neurorobot:neurorobot_spawn_egg",
+    "count": 1
+  }
+}

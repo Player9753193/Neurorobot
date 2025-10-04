@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "package": "com.neurorobot.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "refmap": "neurorobot.refmap.json",
+  "mixins": [
+    "ExampleMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  }
+}

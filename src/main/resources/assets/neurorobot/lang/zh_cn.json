@@ -1,0 +1,9 @@
+{
+  "itemGroup.neurorobot.main": "神经机器人",
+
+  "item.neurorobot.battery": "电池",
+  "item.neurorobot.mechanical_part": "机械零件",
+  "item.neurorobot.neurorobot_spawn_egg": "神经机器人刷怪蛋",
+
+  "entity.neurorobot.neurorobot": "神经机器人"
+}

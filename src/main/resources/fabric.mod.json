@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "id": "neurorobot",
+  "version": "1.21-2510032300",
+  "name": "Neurorobot",
+  "description": "Advanced AI robot with Baritone integration",
+  "authors": [
+    "Player975"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+  "license": "ARR",
+  "icon": "assets/neurorobot/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.neurorobot.Neurorobot"
+    ],
+    "client": [
+      "com.neurorobot.NeurorobotClient"
+    ],
+    "fabric-datagen": [
+      "com.neurorobot.NeurorobotDataGenerator"
+    ]
+  },
+  "mixins": [
+    "neurorobot.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.17.2",
+    "minecraft": "~1.21",
+    "java": ">=21",
+    "fabric-api": "*"
+  },
+  "suggests": {
+    "baritone": "*"
+  }
+}

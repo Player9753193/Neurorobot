@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " B ",
+    "B B",
+    " B "
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "id": "neurorobot:battery",
+    "count": 1
+  }
+}
