@@ -1,9 +1,4 @@
 {
-  "itemGroup.neurorobot.main": "Neurorobot",
-
-  "item.neurorobot.battery": "Battery",
-  "item.neurorobot.mechanical_part": "Mechanical Part",
-  "item.neurorobot.neurorobot_spawn_egg": "Neurorobot Spawn Egg",
-
-  "entity.neurorobot.neurorobot": "Neurorobot"
+  "entity.neurorobot.neurorobot": "Neurorobot",
+  "": "I'm functioning optimally. Ready to assist!"
 }

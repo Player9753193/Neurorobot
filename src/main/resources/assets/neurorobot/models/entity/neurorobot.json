@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:entity/player",
+  "textures": {
+    "layer0": "neurorobot:entity/neurorobot"
+  }
+}
